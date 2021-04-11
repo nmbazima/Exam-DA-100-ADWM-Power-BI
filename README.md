@@ -129,7 +129,7 @@ A data analyst performs tasks that help ensure that decisions are based on trust
 You’ve been tasked by senior leadership to create a suite of reports that are dependent on data in several different locations.
 
 
-![DataSource](/assets.1-data-source-scenario-c.png)
+![DataSource](/assets/1-data-source-scenario-c.png)
 
 The data repositories are different from each other, some are in Microsoft SQL Server, some are in Microsoft Excel, but all the data is related.
 
