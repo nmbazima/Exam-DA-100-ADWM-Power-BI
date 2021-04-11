@@ -21,6 +21,7 @@ After finishing the Microsoft Ignite Cloud Skills Challenge, I was issued with a
 ![Module1](/assets/data-analytics-and-microsoft.svg)
 
 In this module, I will explore the different roles in data and learn the different tasks of a data analyst.
+---
 
 #### Introduction
 
@@ -121,3 +122,14 @@ The ultimate goal of the visualize task is to solve business problems, by using 
 The analyze task is an important step to understand and interpret the information that is displayed on the report. A Data Analyst, should understand the analytical capabilities of Power BI and use those capabilities to find insights, identify patterns and trends, predict outcomes, and then communicate those insights in a way that everyone can understand.
 
 ##### Manage
+As a data analyst, they are responsible for the management of the Power BI assets ( including reports, dashboards, workspaces, datasets, and more), overseeing the sharing and distribution of items, such as reports and dashboards, and ensuring the security of Power BI assets.
+
+#### Summary
+A data analyst performs tasks that help ensure that decisions are based on trusted data.
+
+## Get Data in Power BI
+
+![Module2](/assets/get-data.svg)
+
+In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.
+---
