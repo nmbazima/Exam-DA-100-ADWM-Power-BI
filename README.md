@@ -115,3 +115,9 @@ Before a report can be created, data must be prepared. Data preparation is the p
  An effective data model makes reports more accurate, allows the data to be explored faster and more efficient, decreases time for the report writing process, and simplifies future report maintenance.
 
 ##### Visualize
+The ultimate goal of the visualize task is to solve business problems, by using appropriate visualizations and interactions, the data analyst can provide an effective report that guides the reader through the content quickly and efficiently, therefore allowing the reader to follow a narrative into the data.
+
+##### Analyze
+The analyze task is an important step to understand and interpret the information that is displayed on the report. A Data Analyst, should understand the analytical capabilities of Power BI and use those capabilities to find insights, identify patterns and trends, predict outcomes, and then communicate those insights in a way that everyone can understand.
+
+##### Manage
