@@ -23,7 +23,7 @@ After finishing the Microsoft Ignite Cloud Skills Challenge, I was issued with a
 In this module, I will explore the different roles in data and learn the different tasks of a data analyst.
 ---
 
-#### Introduction
+### Introduction
 
 ![DataAbundance](/assets/abundance-data-ss.png)
 
@@ -42,7 +42,7 @@ We need the ability to see metrics and clearly understand the meaning behind tho
 
 This will require working with other members who handle the data within the organization. This helps in overcoming challenges with insights on hidden values in data.
 
-#### Overview of data analysis
+### Overview of data analysis
 
 ![Reporting](/assets/reporting-trusted-data-ss.png)
 
@@ -79,7 +79,7 @@ As a practice, the data analysis process will capture data from trusted sources 
 A data analyst knows how to organize information and distill it into something relevant and comprehensible. A data analyst knows how to gather the right data and what to do with it, in other words, making sense of the data in your data overload
 ---
 
-#### Roles in Data
+### Roles in Data
 
 Today's applications and projects can be large and intricate, often involving the use of skills and knowledge from numerous individuals. Each person brings a unique talent and expertise, sharing in the effort of working together and coordinating tasks and responsibilities to see a project through from concept to production.
 
@@ -103,7 +103,7 @@ A data scientist looks at data to determine the questions that need answers and 
 ##### Database administrator
 A database administrator monitors and manages the overall health of a database and the hardware that it resides on, whereas a data engineer is involved in the process of data wrangling, in other words, ingesting, transforming, validating, and cleaning data to meet business needs and requirements.
 
-#### Tasks of a Data Analyst
+### Tasks of a Data Analyst
 
 ![Tasks](/assets/tasks-data-analyst-ss.png)
 
@@ -124,7 +124,7 @@ The analyze task is an important step to understand and interpret the informatio
 ##### Manage
 As a data analyst, they are responsible for the management of the Power BI assets ( including reports, dashboards, workspaces, datasets, and more), overseeing the sharing and distribution of items, such as reports and dashboards, and ensuring the security of Power BI assets.
 
-#### Summary
+### Summary
 A data analyst performs tasks that help ensure that decisions are based on trusted data.
 
 ## Get Data in Power BI
@@ -133,3 +133,4 @@ A data analyst performs tasks that help ensure that decisions are based on trust
 
 In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.
 ---
+
