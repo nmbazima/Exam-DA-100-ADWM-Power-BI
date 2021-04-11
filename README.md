@@ -72,7 +72,29 @@ Prescriptive analytics help answer questions about what actions should be taken 
 Cognitive analytics attempt to draw inferences from existing data and patterns, and derive conclusions using knowledge bases, then add these findings back into the knowledge base for future inferences, self-learning feedback loops.
 
 Inferences are not stuctured queries based on a rules database, but they are unstructured hypotheses that are gathered from several sources and expressed with varing degrees of confidence. Effective cognitive analytics use machine learning algorithms, and will use several natural language processing concepts to make sense of previously untapped data sources, such as call center conversation logs and product reviews.
----
-As a practice, the data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.
 
+As a practice, the data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.
+--- 
 A data analyst knows how to organize information and distill it into something relevant and comprehensible. A data analyst knows how to gather the right data and what to do with it, in other words, making sense of the data in your data overload
+
+#### Roles in Data
+
+Today's applications and projects can be large and intricate, often involving the use of skills and knowledge from numerous individuals. Each person brings a unique talent and expertise, sharing in the effort of working together and coordinating tasks and responsibilities to see a project through from concept to production.
+
+![DataRoles](/assets/roles-data-ss.png)
+
+In the recent past, roles such as business analysts and business intelligence developers were the standard for data processing and understanding. However, excessive expansion of the size and different types of data has caused these roles to evolve into more specialized sets of skills that modernize and streamline the processes of data engineering and analysis.
+
+##### Business analyst
+A business analyst is closer to the business and is a specialist in interpreting the data that comes from the visualization.
+
+##### Data analyst
+Data analysts are responsible for profiling, cleaning, and transforming data through visualization and reporting tools such as Microsoft Power BI. This includes designing and building scalable and effective data models, and enabling and implementing the advanced analytics capabilities into reports for analysis. 
+
+##### Data engineer
+Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores. Data engineers also ensure that data services securely and seamlessly integrate across data services.
+
+##### Data scientist
+
+
+##### Database administrator
