@@ -90,7 +90,7 @@ In the recent past, roles such as business analysts and business intelligence de
 A business analyst is closer to the business and is a specialist in interpreting the data that comes from the visualization.
 
 ##### Data analyst
-Data analysts are responsible for profiling, cleaning, and transforming data through visualization and reporting tools such as Microsoft Power BI. This includes designing and building scalable and effective data models, and enabling and implementing the advanced analytics capabilities into reports for analysis. 
+Data analysts profile, clean, and transform data through visualization and reporting tools such as Microsoft Power BI. This includes design,build scalable and effective data models, and enable and implement the advanced analytics capabilities into reports for analysis. 
 
 ##### Data engineer
 Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores. Data engineers also ensure that data services securely and seamlessly integrate across data services.
