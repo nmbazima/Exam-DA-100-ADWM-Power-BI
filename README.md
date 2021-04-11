@@ -20,8 +20,7 @@ After finishing the Microsoft Ignite Cloud Skills Challenge, I was issued with a
 
 ![Module1](/assets/data-analytics-and-microsoft.svg)
 
-In this module, I will explore the different roles in data and learn the different tasks of a data analyst.
----
+**In this module, I will explore the different roles in data and learn the different tasks of a data analyst.**
 
 ### Introduction
 
@@ -72,11 +71,8 @@ Prescriptive analytics help answer questions about what actions should be taken 
 ##### Cognitive
 Cognitive analytics attempt to draw inferences from existing data and patterns, and derive conclusions using knowledge bases, then add these findings back into the knowledge base for future inferences, self-learning feedback loops.
 
-Inferences are not stuctured queries based on a rules database, but they are unstructured hypotheses that are gathered from several sources and expressed with varing degrees of confidence. Effective cognitive analytics use machine learning algorithms, and will use several natural language processing concepts to make sense of previously untapped data sources, such as call center conversation logs and product reviews.
 
-As a practice, the data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.
-
-A data analyst knows how to organize information and distill it into something relevant and comprehensible. A data analyst knows how to gather the right data and what to do with it, in other words, making sense of the data in your data overload
+The data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.
 ---
 
 ### Roles in Data
@@ -94,11 +90,10 @@ A business analyst is closer to the business and is a specialist in interpreting
 Data analysts profile, clean, and transform data through visualization and reporting tools such as Microsoft Power BI. This includes design,build scalable and effective data models, and enable and implement the advanced analytics capabilities into reports for analysis. 
 
 ##### Data engineer
-Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores. Data engineers also ensure that data services securely and seamlessly integrate across data services.
+Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores. 
 
 ##### Data scientist
 Data scientists perform advanced analytics to extract value from data. Descriptive analytics evaluate data through a process known as exploratory data analysis (EDA).
-A data scientist looks at data to determine the questions that need answers and will often devise a hypothesis or an experiment and then turn to the data analyst to assist with the data visualization and reporting.
 
 ##### Database administrator
 A database administrator monitors and manages the overall health of a database and the hardware that it resides on, whereas a data engineer is involved in the process of data wrangling, in other words, ingesting, transforming, validating, and cleaning data to meet business needs and requirements.
@@ -131,6 +126,6 @@ A data analyst performs tasks that help ensure that decisions are based on trust
 
 ![Module2](/assets/get-data.svg)
 
-In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.
----
+**In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.**
+
 
