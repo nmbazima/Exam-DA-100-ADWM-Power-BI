@@ -58,10 +58,6 @@ Descriptive analytics assist in answering questions on what happened using histo
 ##### Diagnostic
 Diagnostic analytics answer questions of why something happened, this helps basic descriptive anayltics, by using the findings from descriptive analytics to discover the cause of those events.
 
- 1. Identify anomalies in the data.
- 2. Collect data related to those anomalies
- 3. Use statistical techniques to discover relationships and trend that explain those anomalies.
-
 ##### Predictive
 Predictive analytics help answer questions of what will happen in the future. It uses historical data to identify trends and determin if they will recur. Tools provide valuable insights into what can happen in the future. Predictive analytics provide a variety of statistical and amchine learning techniques such as neural networks, decision tress and regression.
 
@@ -77,11 +73,11 @@ The data analysis process will capture data from trusted sources and shape it in
 
 ### Roles in Data
 
-Today's applications and projects can be large and intricate, often involving the use of skills and knowledge from numerous individuals. Each person brings a unique talent and expertise, sharing in the effort of working together and coordinating tasks and responsibilities to see a project through from concept to production.
+Today's applications and projects can be large and intricate, often involving the use of skills and knowledge from numerous individuals. 
 
 ![DataRoles](/assets/roles-data-ss.png)
 
-In the recent past, roles such as business analysts and business intelligence developers were the standard for data processing and understanding. However, excessive expansion of the size and different types of data has caused these roles to evolve into more specialized sets of skills that modernize and streamline the processes of data engineering and analysis.
+Excessive expansion of the size and different types of data has caused these roles to evolve into more specialized sets of skills that modernize and streamline the processes of data engineering and analysis.
 
 ##### Business analyst
 A business analyst is closer to the business and is a specialist in interpreting the data that comes from the visualization.
@@ -128,4 +124,34 @@ A data analyst performs tasks that help ensure that decisions are based on trust
 
 **In this module i will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. Also learning how to improve performance while retrieving data.**
 
+### Introduction
+
+You’ve been tasked by senior leadership to create a suite of reports that are dependent on data in several different locations.
+
+
+![DataSource](/assets.1-data-source-scenario-c.png)
+
+The data repositories are different from each other, some are in Microsoft SQL Server, some are in Microsoft Excel, but all the data is related.
+
+Power Query (the query engine used by Power BI and Excel) helps clean data, like renaming columns, replacing values, removing errors, and combining query results. After the data has been cleaned and organized, it will be ready to build reports in Power BI.
+
+**Requirements in Exam**
+Get data from different data sources
+1. identify and connect to a data source
+2. change data source settings
+3. select a shared dataset or create a local dataset
+4. select a storage mode
+5. choose an appropriate query type
+6. identify query performance issues
+7. use Microsoft Dataverse
+8. use parameters
+9. use or create a PBIDS file
+10. use or create a data flow
+11. connect to a dataset using the XMLA endpoint
+
+### Get data from files
+
+A flat file is a type of file that has only one data table and every row of data is in the same structure. The file does not contain hierarchies (.csv) files, delimited text (.txt) files, and fixed width files. Microsoft Excel workbooks (.xlsx).
+
+![Filetypes](/assets/2-file-types-c.png)
 
