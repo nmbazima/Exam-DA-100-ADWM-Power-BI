@@ -96,6 +96,22 @@ Data analysts profile, clean, and transform data through visualization and repor
 Data engineers provision and set up data platform technologies that are on-premises and in the cloud, they also manage and secure the flow of structured and unstructured data from multiple sources, such data platforms can be from relational databases, nonrelational databases, data streams, and file stores. Data engineers also ensure that data services securely and seamlessly integrate across data services.
 
 ##### Data scientist
-
+Data scientists perform advanced analytics to extract value from data. Descriptive analytics evaluate data through a process known as exploratory data analysis (EDA).
+A data scientist looks at data to determine the questions that need answers and will often devise a hypothesis or an experiment and then turn to the data analyst to assist with the data visualization and reporting.
 
 ##### Database administrator
+A database administrator monitors and manages the overall health of a database and the hardware that it resides on, whereas a data engineer is involved in the process of data wrangling, in other words, ingesting, transforming, validating, and cleaning data to meet business needs and requirements.
+
+#### Tasks of a Data Analyst
+
+![Tasks](/assets/tasks-data-analyst-ss.png)
+
+**Thoughts** Data Analysts assist organizations gain valuable insights in the vast datalake they have. This requires them to work with various stakeholders in an organization.
+
+##### Prepare
+Before a report can be created, data must be prepared. Data preparation is the process of profiling, cleaning, and transforming your data to get it ready to model and visualize.
+
+##### Model
+ An effective data model makes reports more accurate, allows the data to be explored faster and more efficient, decreases time for the report writing process, and simplifies future report maintenance.
+
+##### Visualize
