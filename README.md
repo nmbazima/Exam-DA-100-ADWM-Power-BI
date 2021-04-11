@@ -74,8 +74,9 @@ Cognitive analytics attempt to draw inferences from existing data and patterns, 
 Inferences are not stuctured queries based on a rules database, but they are unstructured hypotheses that are gathered from several sources and expressed with varing degrees of confidence. Effective cognitive analytics use machine learning algorithms, and will use several natural language processing concepts to make sense of previously untapped data sources, such as call center conversation logs and product reviews.
 
 As a practice, the data analysis process will capture data from trusted sources and shape it into something that is consumable, meaningful, and easily understood to help with the decision-making process.
---- 
+
 A data analyst knows how to organize information and distill it into something relevant and comprehensible. A data analyst knows how to gather the right data and what to do with it, in other words, making sense of the data in your data overload
+---
 
 #### Roles in Data
 
